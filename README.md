@@ -1,6 +1,8 @@
 If you belive your code is being used make an issue then do @Snowflake-Coder-H2o , I will either remove it or give credits, whichever one you want me to do. 
 
 
+IF THE HACKS ARE DOWN AND NOT WORKING RIGHT AWAY ITS BECAUSE MY REPO WAS REMOVED BY GLIZ BECAUSE HE THOUGHT IT WAS USING HIS CODE. BUT FROM FURTHER INSPECTION It WAS ALL MINE AND ZASTIC'S
+
 
 I dont want to have to deal with any legal consequences
 
