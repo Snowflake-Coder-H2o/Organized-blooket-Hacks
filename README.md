@@ -2,6 +2,8 @@
 
 - Go Check out My teams Repo [Blooket-Hacks](https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-)
 
+- Go check out my Games Repo Its not fully done yet. [Easy-Games](https://github.com/ForkAndSpoonIt/Easygames)
+
 
 
 - Custom hacks will be made by Snowflake and Zastic. That is if Zastic is still making them. 
