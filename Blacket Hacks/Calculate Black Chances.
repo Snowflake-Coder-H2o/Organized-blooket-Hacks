@@ -1,5 +1,5 @@
-// https://discord.gg/d2bujc2qAQ
-console.log('You should follow the github page :) https://github.com/tremblero')
+console.log('You should follow My GitHub page : https://github.com/Blooket-Ace')
+console.log('You should join my Discord server: https://discord.gg/ka4gfvUV4c ')
 let blook = prompt('What blook are you trying to get?')
 let chance = prompt('What chance does it have? Mysticals are usually 0.005')
 let boxes = prompt('How many boxes are you opening?')
